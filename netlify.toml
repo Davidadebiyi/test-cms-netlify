@@ -1,4 +1,5 @@
 [build]
   command = "bundle exec middleman build --verbose"
-  publish = "/opt/build/repo/build"
+  commandOrigin: config
+  publish = "/opt/build/repo/build/"
   
