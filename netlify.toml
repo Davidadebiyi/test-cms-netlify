@@ -1,5 +1,0 @@
-[build]
-  command= "middleman build"
-  commandOrigin= "config"
-  publish= "/build"
-  
