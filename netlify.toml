@@ -1,5 +1,5 @@
 [build]
-  command= "middleman build --verbose"
+  command= "middleman build"
   commandOrigin= "config"
   publish= "/build"
   
