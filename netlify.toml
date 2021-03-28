@@ -1,4 +1,5 @@
 [build]
   command= "middleman build --verbose"
-  publish= "build/"
+  commandOrigin= "config"
+  publish= "/opt/build/repo/build"
   
